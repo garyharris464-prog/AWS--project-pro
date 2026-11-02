@@ -1,22 +1,22 @@
 # Day 1: AWS Foundations — Account Safety, Console, Regions & AZs
 
-**Date:** [Insert Date]  
+**Date:** [11/1/2026]  
 **Status:** Completed  
 
 ---
 
 ## Overview & What I Learned
-- **Root Account vs. IAM User:** Why the root account should be secured and locked away after creating an administrative IAM user[span_1](start_span)[span_1](end_span).
-- **Regions & Availability Zones (AZs):** A Region is an isolated geographic location containing multiple isolated data center clusters called Availability Zones (AZs)[span_2](start_span)[span_2](end_span).
-- **Billing Protection:** Setting up proactive budget alarms before provisioning resources to prevent surprise bills[span_3](start_span)[span_3](end_span).
+- **Root Account vs. IAM User:** Why the root account should be secured and locked away after creating an administrative IAM user.
+- **Regions & Availability Zones (AZs):** A Region is an isolated geographic location containing multiple isolated data center clusters called Availability Zones (AZs).
+- **Billing Protection:** Setting up proactive budget alarms before provisioning resources to prevent surprise bills.
 
 ---
 
 ## What I Built / Configured
-1. **Root Account Security:** Enabled Multi-Factor Authentication (MFA) on the root account[span_4](start_span)[span_4](end_span).
+1. **Root Account Security:** Enabled Multi-Factor Authentication (MFA) on the root account.
 2. **IAM Administrative User:** Created an everyday IAM user to replace root account usage for daily lab work[span_5](start_span)[span_5](end_span).
 3. **Region Configuration:** Set default lab working region to `us-east-1` (N. Virginia)[span_6](start_span)[span_6](end_span).
-4. **Zero-Spend / CloudWatch Billing Alert:** Created a budget alert threshold (e.g., $10) via AWS Billing & Cost Management[span_7](start_span)[span_7](end_span).
+4. **Zero-Spend / CloudWatch Billing Alert:** Created a budget alert threshold (e.g., $10) via AWS Billing & Cost Management.
 
 ---
 
