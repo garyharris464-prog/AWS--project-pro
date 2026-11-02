@@ -14,8 +14,8 @@
 
 ## What I Built / Configured
 1. **Root Account Security:** Enabled Multi-Factor Authentication (MFA) on the root account.
-2. **IAM Administrative User:** Created an everyday IAM user to replace root account usage for daily lab work[span_5](start_span)[span_5](end_span).
-3. **Region Configuration:** Set default lab working region to `us-east-1` (N. Virginia)[span_6](start_span)[span_6](end_span).
+2. **IAM Administrative User:** Created an everyday IAM user to replace root account usage for daily lab work.
+3. **Region Configuration:** Set default lab working region to `us-east-1` (N. Virginia).
 4. **Zero-Spend / CloudWatch Billing Alert:** Created a budget alert threshold (e.g., $10) via AWS Billing & Cost Management.
 
 ---
